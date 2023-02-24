@@ -4,10 +4,10 @@
   "description": "Remington",
   "version": "0.0.1",
   "publisher": "Alez2312",
-    "homepage": "https://github.com/warpnet/saltstack-extension-pack",
+    "homepage": "https://github.com/Alez2312/Remington",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/warpnet/saltstack-extension-pack.git"
+		"url": "https://github.com/Alez2312/Remington.git"
 	},
   "engines": {
     "vscode": "^1.75.0"
