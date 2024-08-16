@@ -2,13 +2,13 @@
   "name": "remington",
   "displayName": "Remington",
   "description": "Remington",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "Alez2312",
-    "homepage": "https://github.com/Alez2312/Remington",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Alez2312/Remington.git"
-	},
+  "homepage": "https://github.com/Alez2312/Remington",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alez2312/Remington.git"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -16,24 +16,34 @@
     "Extension Packs"
   ],
   "keywords": [
-  "Remington",
-  "Remington",
-  "Remington"
-],
-  "extensionPack": [ 
-    "Dart-Code.flutter",
-    "Dart-Code.dart-code",
-    "bmewburn.vscode-intelephense-client",
-    "BracketPairColorDLW.bracket-pair-color-dlw",
-    "PKief.material-icon-theme",
-    "xabikos.JavaScriptSnippets",
-    "dbaeumer.vscode-eslint",
+    "Remington",
+    "Remington",
+    "Remington"
+  ],
+  "extensionPack": [
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-spring-initializr",
+    "donjayamanne.python-extension-pack",
+    "vmware.vscode-boot-dev-pack",
     "esbenp.prettier-vscode",
-    "sidthesloth.html5-boilerplate",
-    "ecmel.vscode-html-css",
-    "ritwickdey.LiveServer",
+    "xabikos.JavaScriptSnippets",
+    "mgmcdermott.vscode-language-babel",
+    "leizongmin.node-module-intellisense",
+    "golang.Go",
+    "rust-lang.rust-analyzer",
+    "dsznajder.es7-react-js-snippets",
+    "burkeholland.simple-react-snippets",
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
-    "christian-kohler.path-intellisense"
+    "PKief.material-icon-theme",
+    "SimonSiefke.svg-preview",
+    "ecmel.vscode-html-css",
+    "wayou.vscode-todo-highlight",
+    "eamodio.gitlens",
+    "donjayamanne.githistory",
+    "mhutchie.git-graph",
+    "Dart-Code.flutter",
+    "Awesome Flutter Snippets",
+    "ms-vscode.cpptools-extension-pack"
   ]
 }
